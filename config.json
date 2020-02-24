@@ -1,0 +1,21 @@
+{
+  "config": {
+    "API_key": "device_API_key_from_fabman.io",
+	"API_key_master":"admin_API_key_from_fabman.io",
+    "nameOfMachine": "custom_name_of_the_machine", 
+	"sendName": true,
+	"sendFilament": true,
+	"sendTime": false,
+	"resetSettings": false, 
+	"firstSettings": true
+  },
+  "WiFi": [
+    {
+      "SSID": "some_wifi",
+      "password": "some_password"
+    },{
+      "SSID": "some_wifi",
+      "password": "some_password"
+    }
+  ]
+}
